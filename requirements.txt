@@ -6,3 +6,4 @@ matplotlib
 plotly
 google.generativeai
 pymongo
+streamlit_extras
