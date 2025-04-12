@@ -4,8 +4,9 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from io import StringIO
+@st.cache(show_spinner=False)
 
-@st.cache_data(show_spinner=False)
+
 def get_sp500_tickers():
     url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
     response = requests.get(url)
