@@ -7,3 +7,4 @@ plotly
 google.generativeai
 pymongo
 streamlit_extras
+streamlit==1.17.0
