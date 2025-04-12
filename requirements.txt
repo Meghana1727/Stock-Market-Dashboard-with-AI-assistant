@@ -7,7 +7,8 @@ plotly
 google.generativeai
 pymongo
 streamlit_extras
-streamlit==1.17.0
+
 altair==4.1.0
 plotly.express
 
+streamlit==1.18.0
