@@ -10,6 +10,7 @@ streamlit_extras
 lxml
 altair==4.1.0
 plotly.express
+streamlit==1.25.0
 
 streamlit==1.18.0
 streamlit>=1.18.0
